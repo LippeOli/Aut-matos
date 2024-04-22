@@ -1,0 +1,24 @@
+Desenvolvido por:
+Bruno Garcia de Oliveira Breda - 11212702
+Felipe Oliveira Carvalho - 14613879
+Gabriel Fernando Machado Fachini - 11953481
+Isabela Oliveira Costa - 10747972
+Vitor Antônio de Almeida Lacerda - 12544761
+
+-------- Execução do Programa -----------
+
+Com o arquivo "trabalho_itc.exe" execute o programa clicando duas vezes sobre o mesmo, certificando-se que o arquivo
+de texto "entrada.txt" se encontra na mesma pasta.
+
+Caso a execução do arquivo "trabalho_itc.exe" seja via terminal (PowerShell), após entrar na pasta do arquivo, digite ".\trabalho_itc.exe"
+para executar o programa, certificando-se que o arquivo de texto "entrada.txt" encontra-se na mesma pasta.
+
+Caso a execução do arquivo "trabalho_itc.py" seja via terminal (PowerShell), digite 'python -u "c:\caminho\trabalho_itc.py"', para executar o programa,
+onde o caminho representa o caminho de diretórios até a pasta contendo o arquivo "trabalho_itc.py". Certificando-se também que o arquivo de texto
+"entrada.txt" se encontra na mesma pasta que o arquivo "trabalho_itc.py".
+
+Após a execução do arquivo, em qualquer dos casos, será pedido para que insira o nome do arquivo de entrada e a extensão do arquivo ".txt", devendo 
+ser informado na seguinte forma: "nomeDoArquivoDeEntrada.txt"
+
+Após a informação do nome do arquivo de entrada, o programa realizará o processamento das entradas inseridas, e a saída esperada estará localizada no 
+arquivo de texto "saida.txt", que será apresentado na mesma pasta dos arquivos "trabalho_itc.py" e "trabalho_itc.exe".
